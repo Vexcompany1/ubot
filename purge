@@ -1,0 +1,2 @@
+rm -f *sess* unknown* *jpg
+ls
